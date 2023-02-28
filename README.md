@@ -18,11 +18,12 @@ The application is simple and user friendly. It fetches Github repos after searc
 ## Visual Representation
 
 
+![image](https://user-images.githubusercontent.com/93868173/221957320-f96b7ba8-4bc1-4ada-9e99-b8f8a45130c4.png)
 
 
 
 
-<img src="https://user-images.githubusercontent.com/93868173/196001824-8dc59ffc-3a81-4691-b605-7548d44b3cb6.jpg" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001824-8dc59ffc-3a81-4691-b605-7548d44b3cb6.jpg" width="400" height="800"/>
+<img src="https://user-images.githubusercontent.com/93868173/221957320-f96b7ba8-4bc1-4ada-9e99-b8f8a45130c4.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001824-8dc59ffc-3a81-4691-b605-7548d44b3cb6.jpg" width="400" height="800"/>
 
 <img src="https://user-images.githubusercontent.com/93868173/196001713-d73dc9bc-f256-49eb-b52d-e2dd42589c6a.jpg" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001713-d73dc9bc-f256-49eb-b52d-e2dd42589c6a.jpg" width="400" height="800"/>
 
