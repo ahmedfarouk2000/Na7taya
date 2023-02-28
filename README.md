@@ -18,18 +18,20 @@ The application is simple and user friendly. It fetches Github repos after searc
 ## Visual Representation
 
 
-![image](https://user-images.githubusercontent.com/93868173/221957320-f96b7ba8-4bc1-4ada-9e99-b8f8a45130c4.png)
-
-
 
 
 <img src="https://user-images.githubusercontent.com/93868173/221957320-f96b7ba8-4bc1-4ada-9e99-b8f8a45130c4.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001824-8dc59ffc-3a81-4691-b605-7548d44b3cb6.jpg" width="400" height="800"/>
 
-<img src="https://user-images.githubusercontent.com/93868173/196001713-d73dc9bc-f256-49eb-b52d-e2dd42589c6a.jpg" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001713-d73dc9bc-f256-49eb-b52d-e2dd42589c6a.jpg" width="400" height="800"/>
 
-<img src="https://user-images.githubusercontent.com/93868173/196001742-b3bbf0a5-3376-4a9b-a23c-b200fe52af6e.jpg" data-canonical-src="hhttps://user-images.githubusercontent.com/93868173/196001742-b3bbf0a5-3376-4a9b-a23c-b200fe52af6e.jpg" width="400" height="800"/>
+<img src="https://user-images.githubusercontent.com/93868173/221957432-6bc7009a-f30e-4d05-93ac-7e5c7630cbd9.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001713-d73dc9bc-f256-49eb-b52d-e2dd42589c6a.jpg" width="400" height="800"/>
 
-<img src="https://user-images.githubusercontent.com/93868173/196001776-569bc01c-b608-43ea-96f0-d35481e34861.jpg" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001776-569bc01c-b608-43ea-96f0-d35481e34861.jpg" width="400" height="800"/>
+
+<img src="https://user-images.githubusercontent.com/93868173/221957624-b6baeb2d-a8d9-4b09-b3c4-afe6a62ab6d0.png" data-canonical-src="hhttps://user-images.githubusercontent.com/93868173/196001742-b3bbf0a5-3376-4a9b-a23c-b200fe52af6e.jpg" width="400" height="800"/>
+
+
+<img src="https://user-images.githubusercontent.com/93868173/221957691-6cd5ce96-d9f5-403d-9d11-375ddb1d7115.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001776-569bc01c-b608-43ea-96f0-d35481e34861.jpg" width="400" height="800"/>
+
+
 
 <img src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
 
