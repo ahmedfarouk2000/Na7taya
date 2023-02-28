@@ -32,7 +32,16 @@ The application is simple and user friendly. It fetches Github repos after searc
 <img src="https://user-images.githubusercontent.com/93868173/221957691-6cd5ce96-d9f5-403d-9d11-375ddb1d7115.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001776-569bc01c-b608-43ea-96f0-d35481e34861.jpg" width="400" height="800"/>
 
 
+<img src="https://user-images.githubusercontent.com/93868173/221957803-db79d18b-365c-4b08-b363-66433186729f.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
 
-<img src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
+
+
+
+<img src="https://user-images.githubusercontent.com/93868173/221957932-34b6ad1b-d352-4bbf-aae9-cf8a3e344c00.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
+
+
+
+<img src="https://user-images.githubusercontent.com/93868173/221958039-ffd6447b-ee46-4dfa-b0dd-ad2738a55c40.png" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="800"/>
+
 
 
