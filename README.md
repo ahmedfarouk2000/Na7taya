@@ -1,7 +1,7 @@
 # Na7taya
 
 Na7taya is a mobile app Arabic and English serving and connecting service providers (Sa7eb El Na7taya) with service seekers (ElNa7eet) for any type of service. Service seekers including freelancing handymen workers for instance, plumbers, electricians, carpenters, tile setters, etc. Service seekers can easily offer service seekers services they need and they can book a specific time slot depending on the free time schedule that the service providers  provides to the app. Service providers can create jobs with price and descriptions. Service seekers can search for these offers and apply for any. 
-APK Demo:https://drive.google.com/file/d/1Js_yhKeeJG0sJaK-9D1ViH7IEptkwI3x/view
+- APK Demo:https://drive.google.com/file/d/1Js_yhKeeJG0sJaK-9D1ViH7IEptkwI3x/view
 - The Required Decumentation: [Dokument von Ahmed Farouk.pdf](https://github.com/ahmedfarouk2000/Na7taya/files/10866038/Dokument.von.Ahmed.Farouk.pdf)
 
 ## Technologies
